@@ -1,1 +1,1 @@
-# Privacy
+Dark Mode Extension - Privacy Policy This extension does not collect, store, or share any personal data. It only stores user preferences (whether Dark Mode is enabled or disabled) locally on the user's device. No data is transmitted to external servers. This extension does not track web activity, record browsing history, or interact with user credentials.
